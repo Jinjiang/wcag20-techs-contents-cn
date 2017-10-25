@@ -4,11 +4,13 @@ Techniques for WCAG 2.0 目录的中文翻译
 
 W3C 原文：https://www.w3.org/TR/WCAG20-TECHS/
 
+由此快速到达：[内容目录中文翻译](#目录)
+
+## 必要的版权和状态等相关信息展示
+
+Copyright © 2017 World Wide Web Consortium, (MIT, ERCIM, Keio, Beihang). http://www.w3.org/Consortium/Legal/2015/doc-license
+
 <img src="https://www.w3.org/StyleSheets/TR/2016/logos/W3C" alt="W3C" height="48" width="72">
-
-# Techniques for <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> 2.0
-
-## Techniques and Failures for Web Content Accessibility Guidelines 2.0
 
 ## W3C Working Group Note 7 October 2016
 
@@ -60,6 +62,8 @@ Publication as a <span class="final">Working Group Note</span> does not imply en
 This document was produced by a group operating under the [5 February 2004 W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20040205/). W3C maintains a [public list of any patent disclosures](https://www.w3.org/2004/01/pp-impl/35422/status) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains [Essential Claim(s)](https://www.w3.org/Consortium/Patent-Policy-20040205/#def-essential) must disclose the information in accordance with [section 6 of the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-Disclosure).
 
 This document is governed by the [1 September 2015 W3C Process Document](https://www.w3.org/2015/Process-20150901/).
+
+## 目录
 
 * [Abstract](https://www.w3.org/TR/WCAG20-TECHS/#abstract)
 * [Status of This Document](https://www.w3.org/TR/WCAG20-TECHS/#status)
@@ -540,5 +544,3 @@ This document is governed by the [1 September 2015 W3C Process Document](https:/
     * [F93: Failure of Success Criterion 1.4.2 for absence of a way to pause or stop an HTML5 media element that autoplays](https://www.w3.org/TR/WCAG20-TECHS/F93.html)
 * Appendix A: [Acknowledgements](https://www.w3.org/TR/WCAG20-TECHS/appendixA.html)
 * Appendix B: [References](https://www.w3.org/TR/WCAG20-TECHS/appendixB.html)
-
-Copyright © 2017 World Wide Web Consortium, (MIT, ERCIM, Keio, Beihang). http://www.w3.org/Consortium/Legal/2015/doc-license
